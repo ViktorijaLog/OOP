@@ -4,6 +4,7 @@ class person:
         self.age= age
     def output (self):
         print(f'Persona {self.name}, kurai ir {self.age} gadi')
+        print(f'Labdien {self.name}!')
 
 p = person()
 p.set("Peter",20)
