@@ -1,0 +1,2 @@
+from nolasa import*
+Nolasa()
